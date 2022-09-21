@@ -1,16 +1,8 @@
 ---
-title: Publications
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-view: 4
-
-# Optional header image (relative to `static/media/` folder).
+date: "2017-01-01T00:00:00+01:00"
 header:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+list_format: 3
+title: Publications
 ---

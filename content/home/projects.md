@@ -27,10 +27,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Fire risk
+      tag: Fire risk
+    - name: Forest management
+      tag: Forest management
     - name: Other
-      tag: Demo
+      tag: Other
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
