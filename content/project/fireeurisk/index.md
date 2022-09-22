@@ -19,3 +19,5 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+
+At FirEUrisk, we’re harmonizing and upgrading current European strategies by including the socio-economic circumstances that affect the occurrence of extreme wildfires as well as the biophysical conditions, such as vegetation and climate. This mix of perspectives allows a better understanding of how vulnerable communities are to wildfires and which are the best practices to adapt.
