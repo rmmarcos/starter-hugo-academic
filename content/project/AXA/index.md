@@ -5,7 +5,7 @@ image:
   #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 #slides: example-slides
-summary: Understanding Wildfire Risk: A Local-Scale Assessment Framework in Chile
+summary: Understanding Wildfire Risk. A Local-Scale Assessment Framework in Chile
 tags:
 - Fire risk
 title: Developing a framework for assessing the wildfire risk at local scale 
