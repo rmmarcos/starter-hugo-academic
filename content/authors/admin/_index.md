@@ -14,12 +14,13 @@ education:
   - course: BSc in Geography
     institution: University of Zaragoza
     year: 2006
-email: "rmarcos@eagrof.udl.cat"
+email: "rmarcos@unizar.es"
 interests:
 - Forest fires
 - Risk modeling
 - Geographic Information Systems
 - Spatial statistics
+- Wildfire spread and behavior
 name: Marcos Rodrigues
 organizations:
 - name: University of Zaragoza

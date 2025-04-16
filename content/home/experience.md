@@ -24,7 +24,14 @@ date_format: Jan 2006
 experience:
 - company: University of Zaragoza
   company_url: ""
-  date_end:  "2022-09-20"
+  # date_end:  "2024-04-21"
+  date_start: "2024-04-22"
+  description: Full professor at the Department of Geography
+  location: Zaragoza
+  title: Full professor
+- company: University of Zaragoza
+  company_url: ""
+  date_end:  "2024-04-21"
   date_start: "2021-09-20"
   description: Lecturer at the Department of Geography
   location: Zaragoza
