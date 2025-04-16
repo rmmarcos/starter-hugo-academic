@@ -23,6 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - company: University of Zaragoza
+  company_url: "https://geodataunizar.netlify.app/"
+  # date_end:  "2024-04-21"
+  date_start: "2024-11-01"
+  description: Coordinator of the Specialization Diploma in Geographic Data Science
+  location: Zaragoza
+  title: Co-director
+- company: University of Zaragoza
   company_url: ""
   # date_end:  "2024-04-21"
   date_start: "2024-04-22"

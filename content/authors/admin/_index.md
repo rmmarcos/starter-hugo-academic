@@ -36,5 +36,5 @@ social:
 superuser: true
 ---
 
-I am a Geographer, interested in forest fire modeling and multiscale risk assessment and PhD in Environmental and Land management. I am currently a lecturer and postdoctoral research fellow at the Department of Geography and Land Management, University of Zaragoza.
+I am a Geographer and PhD in Environmental and Land management. I am interested in forest fire modeling and multiscale risk assessment. I am currently a full professor at the Department of Geography and Land Management, University of Zaragoza.
 
