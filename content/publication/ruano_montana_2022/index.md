@@ -30,7 +30,7 @@ abstract: Spatial wildfire ignition predictions are needed to ensure efficient a
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Custom Link

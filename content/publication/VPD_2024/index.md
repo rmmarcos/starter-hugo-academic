@@ -32,7 +32,7 @@ abstract: Dead fine fuel moisture content (FM) is one of the most important dete
 tags:
 - Wildfire danger
 - Risk 
-featured: true
+featured: false
 
 links:
 # - name: Custom Link

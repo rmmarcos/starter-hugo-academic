@@ -33,7 +33,7 @@ In most models (99.7%), drought duration was the most important factor, negative
 tags:
 - Fire-adapted communities
 - Risk communication
-featured: true
+featured: false
 
 links:
 # - name: Custom Link

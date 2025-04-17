@@ -31,7 +31,7 @@ tags:
 - Wildfire danger
 - Containment
 - Risk 
-featured: true
+featured: false
 
 links:
 # - name: Custom Link
