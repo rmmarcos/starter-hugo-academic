@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00+02:00"
+date: "2024-03-01T00:00:00+02:00"
 external_link: "https://axa-research.org/funded-projects/climate-environment/understanding-wildfire-risk-a-local-scale-assessment-framework-in-chile"
 image:
   #caption: Photo by rawpixel on Unsplash
